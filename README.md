@@ -9,9 +9,9 @@ An unofficial handbook for tech people and more specifically, UC Davis computer 
 # Pushing
 This is for the UC Davis Computer Science Club members who are pushing to the handbook -- please make sure to version bump and cite your name for any changes you made. For example, if Secretary Jill Doe made a change to the FAQ subsection of Classes and Waitlisting, she would put in Version History, if the previous version was 0.1: 
 
-Version 0.2:
+>**Version 0.2:**
 
-Edited and updated FAQ subsection of Classes and Waitlisting -- Jill Doe, Secretary  
+>Edited and updated FAQ subsection of Classes and Waitlisting -- Jill Doe, Secretary  
 
 Please follow this format to keep everything consistent and information attributed and accredited to the right people. 
 
